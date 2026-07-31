@@ -7,8 +7,6 @@
   <a href="https://github.com/RzeDev">
     <img src="https://img.shields.io/badge/Focus-Infrastructure_%26_DevOps-blue?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
-  <a href="https://github.com/RzeDev">
-    <img src="https://img.shields.io/badge/OS-Ubuntu%2FDebian-orange?style=for-the-badge&logo=ubuntu&logoColor=white" />
   </a>
 </p>
 
